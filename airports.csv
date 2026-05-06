@@ -1,0 +1,201 @@
+airport_id,airport_name,city,country,IATA_code,latitude,longitude,timezone
+1,"Brown, Taylor and Ayers Airport",Lake Timothybury,Botswana,NYP,-33.8353,29.6819,-8.9
+2,Ortiz-Galloway Airport,South Jonathanbury,Bahamas,KHA,-47.6918,139.6295,-0.7
+3,"Ward, Davidson and Carr Airport",Cherylview,Monaco,NGJ,-70.1534,-38.7517,-6.3
+4,Welch Group Airport,East Jeffreytown,Guam,XJO,-28.4588,54.9807,7.6
+5,Marks and Sons Airport,South Charles,Belarus,RFL,70.3304,161.3427,-8.1
+6,Newman PLC Airport,South Clayton,Greece,FVJ,-21.5512,-131.4669,9.7
+7,"Ward, King and Hernandez Airport",West Nathan,Saint Kitts and Nevis,DNK,80.2181,-174.9418,6.9
+8,"Meyer, Spears and Pollard Airport",South Rachelfurt,Yemen,PRW,-66.3402,-75.814,10.8
+9,Flores Group Airport,West Justinfurt,United States Minor Outlying Islands,OWC,-80.6003,85.573,-4.8
+10,"Taylor, Stone and Thomas Airport",Tammyview,New Zealand,WAX,-68.8776,132.171,9.0
+11,"Wallace, Anderson and Underwood Airport",Brianchester,Lebanon,BJD,34.8312,-104.8009,-2.9
+12,Smith-Cross Airport,Ramirezmouth,San Marino,XTO,25.6696,-158.8124,5.7
+13,Faulkner Ltd Airport,Lake Jamieland,Uganda,JEO,-53.6681,89.8866,4.2
+14,Whitney-Kelly Airport,Everettborough,Malta,DCP,-15.1277,-7.0676,13.6
+15,Padilla PLC Airport,Shannonbury,Paraguay,MAF,-5.0131,4.929,12.7
+16,"Warner, Blackburn and Johnson Airport",Bretthaven,Bulgaria,CBZ,21.5007,157.7441,13.0
+17,Boyd Inc Airport,Vincentton,Niue,OIS,86.1012,20.5162,-0.0
+18,Ramirez LLC Airport,Sharpfort,Aruba,DYM,81.8515,-73.2755,-10.8
+19,Bell PLC Airport,Michellechester,Korea,YNZ,87.5676,-158.1307,-3.5
+20,"Hall, Moreno and Matthews Airport",Bergerborough,Chad,ZSP,-49.53,-145.4174,12.7
+21,Bryant Group Airport,Kristenport,Niger,BJW,-0.6606,113.8146,-9.4
+22,Goodman LLC Airport,Beckville,Libyan Arab Jamahiriya,CFB,22.9464,34.437,-6.1
+23,Reyes Group Airport,West Alexanderland,Cote d'Ivoire,VPZ,-18.0437,27.5718,-10.1
+24,Cooper and Sons Airport,New Brendamouth,Panama,AOQ,57.9859,-114.9963,-2.0
+25,Hernandez-Johnson Airport,Madelinefurt,Italy,VHB,-37.4171,-170.5329,10.7
+26,Pena Group Airport,Joefort,Yemen,OYA,18.7896,-130.7125,2.7
+27,"Thompson, Allen and Adams Airport",Macdonaldside,Denmark,PTQ,43.4729,-61.2298,-6.5
+28,"Miller, Martin and Jones Airport",West Danaland,Bouvet Island (Bouvetoya),OWR,58.7982,106.3516,10.1
+29,Kelley-Patrick Airport,Brandonshire,Belize,TRV,-41.746,-94.0806,-11.1
+30,"Lambert, Wilkins and Key Airport",Santiagoland,Greenland,HVG,88.5261,42.8376,8.7
+31,Williams PLC Airport,Heatherhaven,Egypt,CPL,60.1065,-172.6067,-10.8
+32,"Rodriguez, Parrish and Bartlett Airport",Mcmillanberg,Anguilla,PFQ,-49.6387,-70.2767,-2.5
+33,"Simon, Harris and Santos Airport",Williamsfort,Lao People's Democratic Republic,VFJ,-13.6065,-73.9073,12.1
+34,Simpson-Martin Airport,Jacobmouth,Egypt,BZQ,-81.7818,-44.8825,1.5
+35,Wagner-Robles Airport,Fosterberg,Guernsey,GYR,30.7079,-23.1583,2.8
+36,Hall Group Airport,Mcbrideview,Timor-Leste,DVE,-27.3161,145.9496,-1.6
+37,Church Inc Airport,North Tanyaburgh,Saint Pierre and Miquelon,UPB,24.8139,-145.9086,-6.1
+38,Murray-Cruz Airport,Port Kimberlyborough,Martinique,ZIB,-49.3849,24.9452,-5.3
+39,Bradshaw LLC Airport,Jillhaven,Monaco,DBH,32.6218,-152.5488,-6.3
+40,Shepherd LLC Airport,West Christopherhaven,Reunion,LOW,57.6478,43.6454,-2.4
+41,Young Inc Airport,Port Brent,Belgium,DFB,-71.7652,45.4983,-4.2
+42,"Parsons, Nguyen and Lowe Airport",East Crystalfurt,Montenegro,ESX,4.2297,63.4257,4.2
+43,Wallace Group Airport,West Jamesview,Tonga,ISQ,87.6326,-41.7113,8.8
+44,Schultz Group Airport,Fitzpatrickmouth,Botswana,QZZ,30.1921,-140.6412,9.5
+45,Anderson-Delacruz Airport,Markside,Thailand,HVM,81.4138,93.8272,10.1
+46,Christensen-Brown Airport,Lake Joseph,Nigeria,JQG,6.9655,-161.3272,-6.6
+47,Patton-Strickland Airport,New Deanna,Myanmar,AAU,13.779,73.4835,-1.2
+48,Wright Group Airport,Lindamouth,Bulgaria,SAZ,21.454,119.4269,11.1
+49,Salazar Group Airport,Lewisstad,Tanzania,XWE,41.8235,-94.8109,-9.4
+50,"Spears, Davis and West Airport",Karentown,Korea,VXK,89.9659,-61.323,-10.2
+51,Lewis LLC Airport,South Adrian,Bhutan,QST,-0.5334,11.429,7.1
+52,"Hayes, Mitchell and Walter Airport",Nicholsmouth,Saint Pierre and Miquelon,CXD,-29.2406,58.5874,6.9
+53,"Davis, Lawson and Wagner Airport",Oconnorfurt,Saint Pierre and Miquelon,RWO,14.4711,24.4993,7.2
+54,"Stephens, Harrington and Walsh Airport",New Seanfurt,Nepal,JVO,-8.7406,-19.1613,2.7
+55,"Franklin, Barajas and Harris Airport",North Eric,Ecuador,TTI,34.9524,-174.2711,-1.2
+56,Briggs-Lawson Airport,Ruizbury,Singapore,KRW,83.4426,-83.3138,13.0
+57,"Mcclain, Sullivan and Smith Airport",Lake Rebecca,Maldives,LFV,10.7009,-148.5265,0.2
+58,Palmer-Williams Airport,Choifort,India,MOG,0.4869,104.5189,-2.3
+59,Richardson and Sons Airport,Moorebury,Mauritius,UNV,20.7262,-120.0646,8.1
+60,"Wallace, Anderson and Blevins Airport",New Benjamin,French Polynesia,XYB,12.4596,131.7337,8.3
+61,Wright-Jackson Airport,Estesland,Pakistan,SFR,-77.8882,15.3806,-10.3
+62,Norton-Velasquez Airport,North Susanside,Dominica,LIW,14.5786,82.4095,-9.2
+63,"Chavez, Reed and Bailey Airport",West Theresa,Macao,LZQ,20.7407,-145.666,6.6
+64,Kelly-Blackburn Airport,East Roger,Monaco,SLG,-28.3267,122.2176,10.9
+65,"Goodwin, Johnson and Kennedy Airport",West Thomas,Czech Republic,FIA,20.0587,74.3624,-4.2
+66,Lewis Ltd Airport,Karenstad,Vanuatu,ZUD,60.3856,-14.0125,-7.3
+67,Middleton-Mcknight Airport,South Tinatown,Bangladesh,VAZ,-48.3775,-126.1618,-7.9
+68,"Patrick, Sharp and Thompson Airport",South William,Germany,HZN,81.1963,-158.6998,-8.5
+69,Robinson Ltd Airport,South Samueltown,Iran,MWN,38.06,-85.3957,-7.3
+70,Miller Inc Airport,Ethanberg,San Marino,QEH,64.2392,-26.6442,12.6
+71,"Bowman, Carlson and Romero Airport",Martinland,Swaziland,WMQ,53.262,-124.4262,2.1
+72,Johnson Ltd Airport,North Patrickburgh,Yemen,NLB,28.1262,-115.3752,-6.6
+73,Morrison Ltd Airport,Trevinochester,Saudi Arabia,UDQ,85.4324,-17.5813,-1.7
+74,"Hansen, Martinez and Henry Airport",New Chelsea,Cameroon,MZH,-71.6474,54.2757,8.3
+75,White-Stewart Airport,Port Amberstad,Cocos (Keeling) Islands,UVN,79.5597,-17.5764,-2.3
+76,Hall Ltd Airport,Joanborough,Montenegro,ORB,66.4571,144.5189,8.0
+77,Carey-Combs Airport,East Maryland,Ethiopia,DDQ,-55.29,132.4332,3.0
+78,Spencer-Mendoza Airport,Christopherport,Montenegro,UZS,54.6527,124.0227,11.6
+79,"James, Christian and Rose Airport",Fryeland,Bosnia and Herzegovina,FCG,-34.9864,30.48,-8.0
+80,"Horne, Peterson and Lee Airport",Doyleton,Nauru,WUT,-49.8133,-39.9634,-4.2
+81,Reed-Richardson Airport,Franklinhaven,French Southern Territories,JVG,41.1069,-69.0703,-6.2
+82,Sutton-Hawkins Airport,New Davidburgh,Philippines,WJU,-44.4932,55.3394,-1.8
+83,Harris-Hunt Airport,Katherineton,Singapore,VLU,45.9409,64.9118,11.0
+84,"Jones, Hines and Williams Airport",Brownfurt,Antigua and Barbuda,EMQ,-78.7579,75.4833,6.4
+85,"Rivas, Marshall and Martin Airport",East Nathan,Uganda,PMA,39.2839,-17.2196,-8.4
+86,Jones Group Airport,Hernandezberg,Cambodia,FPG,30.6949,-122.6576,-1.1
+87,Ramirez-Burns Airport,West Jameshaven,Guinea-Bissau,PIG,72.3409,134.4586,-2.9
+88,"Carey, Payne and Sullivan Airport",Thomasview,Niger,SEA,-41.2747,65.7516,-11.7
+89,"Lee, York and Davis Airport",Choimouth,Lao People's Democratic Republic,GQN,3.4145,-116.9266,4.7
+90,English PLC Airport,Nobleburgh,San Marino,UAI,70.7744,-177.3211,2.9
+91,Frost-Castaneda Airport,Cookchester,Russian Federation,VXI,79.2688,152.5694,-10.4
+92,"Simmons, Schmidt and Duncan Airport",Annaview,Burundi,AMB,-72.4127,150.7928,0.1
+93,Burke-Fowler Airport,Rodriguezchester,Peru,XRZ,-45.6027,-91.8983,-11.9
+94,Cervantes-Washington Airport,West Josephfort,Suriname,UUO,55.5415,-122.2208,13.5
+95,"Valdez, Reyes and Black Airport",New Spencer,Kazakhstan,QZD,37.5421,56.9055,-6.9
+96,Floyd PLC Airport,Shawnfort,Cayman Islands,FYW,9.6021,-34.3501,0.2
+97,Brooks-House Airport,West Richard,Equatorial Guinea,OKT,79.9303,-142.8743,-7.2
+98,Jenkins Inc Airport,North Brianburgh,China,VBS,1.4062,69.5985,-1.8
+99,Baker-Bennett Airport,North Amanda,Dominican Republic,JLM,-68.9964,106.4932,7.6
+100,Collins Group Airport,Port Jason,Tajikistan,POL,35.5898,102.3159,-7.5
+101,Rivera-Hess Airport,New James,Netherlands Antilles,CBT,-65.4151,30.0778,2.4
+102,Ingram Inc Airport,Brownstad,Latvia,AJM,-69.7678,3.3657,1.8
+103,Bolton Ltd Airport,Amandastad,French Polynesia,MGR,-15.3701,74.0947,7.2
+104,"Rogers, Bell and Wright Airport",Dixonview,Heard Island and McDonald Islands,ARU,-21.1373,-28.7567,-6.1
+105,"Jackson, Ford and Johnson Airport",West Kimberlymouth,Korea,DAL,-13.9422,165.8028,8.4
+106,Valdez PLC Airport,New Brittany,Gambia,OLP,1.2218,93.6503,9.9
+107,Peterson LLC Airport,Beasleyburgh,Iraq,OKN,-75.3019,-10.8124,13.5
+108,"Patterson, Cruz and Singleton Airport",East Matthew,Niger,QAA,-89.507,46.1465,-1.0
+109,"Harris, Jensen and Obrien Airport",Barreraland,China,EMT,4.5727,-155.393,-7.2
+110,Ross Inc Airport,Port Monicamouth,Australia,JDM,76.9485,-84.7887,5.0
+111,"Lutz, Day and Shaw Airport",Lake Isaiahland,Nauru,YDU,53.0596,-130.9557,-5.9
+112,"Pearson, Mueller and Cooper Airport",Gregoryhaven,Niger,CKO,19.9683,-31.266,8.7
+113,Ramos and Sons Airport,Lake Terribury,Zambia,TGY,72.5484,-30.7253,-9.3
+114,Clark Group Airport,East Caroline,Honduras,GQT,8.862,-139.4473,-8.8
+115,King-Smith Airport,Lake Ashleyfurt,Uruguay,HVC,-26.4705,82.67,3.1
+116,Baker LLC Airport,New Christina,French Polynesia,XOR,-69.4043,103.536,6.7
+117,"Thomas, Copeland and Edwards Airport",North Jacqueline,Mexico,QFJ,57.9051,57.0393,12.5
+118,"Mckenzie, Yang and Cole Airport",South Elizabethbury,Svalbard & Jan Mayen Islands,FFE,3.7063,137.7362,3.8
+119,"Kirby, Bush and Schneider Airport",East David,Algeria,OTP,41.1192,85.9333,-8.3
+120,Navarro-Rodriguez Airport,East Brentton,Nepal,TOJ,-68.9321,-107.8956,-0.1
+121,Adams-Cook Airport,East Thomastown,Turks and Caicos Islands,YVL,-55.8386,-11.7614,2.0
+122,Hicks PLC Airport,North Alexandertown,Namibia,VPU,36.7541,10.9742,9.3
+123,Roach-Roy Airport,East Joshua,Saudi Arabia,JLG,60.4306,-125.7964,5.6
+124,Doyle-Byrd Airport,Lake Zachary,Montenegro,HGF,12.0339,142.0009,-11.0
+125,Burke-Jones Airport,Port Lauren,Argentina,LER,28.9775,67.7189,10.6
+126,Fernandez Ltd Airport,Curtisshire,Chile,VPC,11.4457,-109.275,-2.7
+127,Gregory-Carpenter Airport,West Kimberlyside,Vietnam,WPA,-45.4929,120.8519,-11.9
+128,Williams-Hernandez Airport,Brettside,Denmark,UHK,-0.6491,-156.0982,-7.0
+129,Baker Ltd Airport,Lake Samanthamouth,Dominican Republic,ZNM,83.5486,-94.3805,-6.6
+130,Cummings and Sons Airport,Hallshire,Korea,FOE,1.9532,-88.9249,11.3
+131,Edwards-Mercer Airport,Charlesmouth,Croatia,DHB,1.0164,-103.7879,8.5
+132,"Goodwin, Schmidt and Mercer Airport",Brownville,Liechtenstein,HIR,18.7316,-32.2659,1.1
+133,Duncan-Edwards Airport,Port Sarahport,Liechtenstein,XNP,-87.869,-45.5507,11.7
+134,"Yu, Ellis and Moreno Airport",New Travisshire,Svalbard & Jan Mayen Islands,COF,68.2482,130.7551,-9.1
+135,Howard-Hernandez Airport,West Ryantown,Nepal,HZK,-1.5201,-122.9948,1.7
+136,Dennis LLC Airport,Allisonville,North Macedonia,RML,-35.8007,21.3458,5.4
+137,"Smith, Fields and Blanchard Airport",Darrellstad,Mongolia,IUM,-76.251,51.6426,9.0
+138,"Anderson, Kim and Dickson Airport",Lake Pam,Jamaica,NPR,-80.8568,-144.9388,4.5
+139,"Gutierrez, Brown and Olson Airport",Mirandashire,Colombia,LXX,89.0005,1.9444,6.5
+140,Burke LLC Airport,Whiteberg,United Arab Emirates,YSA,33.3921,-172.0795,-10.6
+141,"Flores, Joyce and Mcintosh Airport",Kimstad,Grenada,EDQ,-59.2518,-109.4736,-1.7
+142,"Holloway, Nichols and Rhodes Airport",East Christina,Martinique,HWX,-63.1768,8.1648,-5.7
+143,Hill Ltd Airport,Christinemouth,Puerto Rico,ZTI,-40.6052,169.3061,-4.7
+144,"Mckinney, Hernandez and Ballard Airport",New Roger,Cayman Islands,JEA,-64.9253,78.3782,7.6
+145,Harvey-Johnson Airport,Allenfurt,Romania,ANH,-47.2147,123.9563,-10.8
+146,"Graves, Fuller and Young Airport",East Douglas,Sao Tome and Principe,YLF,50.6864,65.0289,9.1
+147,Harper-Solomon Airport,Anthonyview,Thailand,HIA,37.8716,130.6457,-6.8
+148,Hunter-Haney Airport,Hernandezhaven,Denmark,DPO,-61.3019,-136.3511,7.1
+149,Graham-Graves Airport,North Monica,Denmark,NRE,35.7987,-119.8813,-5.6
+150,Mueller-Campbell Airport,Lake Paula,United States of America,JHK,-76.4013,178.8053,-0.1
+151,Chapman PLC Airport,Sharonmouth,Gambia,QPC,-56.046,59.1326,-3.1
+152,Knight-Hines Airport,Port Kellystad,Solomon Islands,XJB,-23.8762,-155.1924,-11.5
+153,Macias-Zuniga Airport,Thompsonton,Mongolia,RFS,13.2541,-123.3323,-4.2
+154,Hill Inc Airport,New Tina,Cook Islands,OJV,38.7702,152.4139,-10.2
+155,"Hancock, Soto and Wade Airport",New Brett,Mauritius,VZN,-46.4298,148.1633,-9.1
+156,"Johnson, Phelps and Bradley Airport",Marquezport,Cape Verde,ZEI,56.7958,166.6189,6.5
+157,Thomas-Grimes Airport,Bennettborough,Cuba,HUX,-60.614,-65.4318,-2.1
+158,Collins-Moreno Airport,Sanfordville,Palau,IDD,-19.1271,129.0257,2.2
+159,Vaughan PLC Airport,Millerborough,Saint Lucia,VAA,41.6275,-155.7278,0.9
+160,Perez Ltd Airport,West Anna,Montenegro,NSL,-73.6104,92.7239,7.5
+161,Dalton-Brown Airport,Lake Michael,Chile,KLN,66.6051,-162.061,13.9
+162,"Cox, Moore and Williams Airport",West Joseph,Gambia,MNZ,14.5036,-148.4576,1.9
+163,Martinez and Sons Airport,West Paulshire,Indonesia,RCJ,-1.8852,48.2337,8.7
+164,Cantrell and Sons Airport,East Joelside,Zimbabwe,RZR,44.2606,-89.802,13.9
+165,Garrison-Suarez Airport,Hernandezburgh,Benin,MVU,27.8602,23.6709,3.0
+166,"Drake, Lewis and Roy Airport",South Markmouth,Denmark,GGR,73.9923,-113.9805,13.8
+167,Johnson and Sons Airport,South Walter,Andorra,SAN,-39.0635,-176.2098,2.4
+168,Shepherd Inc Airport,Torresville,Benin,MZE,12.7042,100.6918,2.0
+169,Fleming Group Airport,Hillshire,Fiji,PIC,14.9209,12.3871,-1.2
+170,Frye-Hernandez Airport,West Melissa,Barbados,KFP,-50.4142,-130.5008,10.2
+171,"Bradley, Schmidt and Gates Airport",Lake Amanda,United Arab Emirates,YSI,17.6443,-41.743,-12.0
+172,Bauer Ltd Airport,New Thomasbury,Sierra Leone,QNT,53.9581,-131.466,7.4
+173,Ross and Sons Airport,New Kaylaport,Zimbabwe,OIN,-32.1759,-174.0959,7.4
+174,Gray Group Airport,East Eric,Spain,HPX,-36.1394,144.12,9.8
+175,"Boyer, Velasquez and Alvarado Airport",Millerberg,Comoros,CEK,-89.9906,-136.4243,-11.7
+176,Cannon-Lopez Airport,East Jessicabury,Grenada,ZYQ,-72.9852,-62.8313,13.1
+177,Hill PLC Airport,Zacharyland,Thailand,QUE,48.652,4.7671,-9.1
+178,"Bates, Roberts and Hanson Airport",Lawrencetown,Sao Tome and Principe,ZQT,1.3619,119.5913,-7.7
+179,Chen and Sons Airport,Lopezfort,Estonia,OLP,12.7769,70.7199,5.8
+180,"Mason, Jones and Garcia Airport",Port Mariaborough,Nauru,SLN,44.6029,124.6388,-8.8
+181,Shepard-Evans Airport,South Jeff,Tokelau,SXE,3.2389,23.5159,2.0
+182,Nelson Ltd Airport,Carlaport,Qatar,XQD,-22.0666,-177.3647,2.8
+183,"Gaines, Sherman and Fleming Airport",Phillipview,Zimbabwe,GXQ,83.3146,50.9156,5.0
+184,Thompson-Green Airport,Scottshire,Singapore,RXN,55.0871,127.59,12.0
+185,Brown PLC Airport,Stevemouth,Uzbekistan,YTN,60.6719,138.9207,-6.3
+186,Hall LLC Airport,Lake Paulbury,Northern Mariana Islands,RXD,-42.8477,60.366,6.5
+187,"Mata, Thomas and Williams Airport",Colemanbury,Angola,BIL,12.0412,-62.9748,-9.9
+188,Salazar and Sons Airport,Port Jameschester,Ghana,HFX,-53.6333,-69.7512,0.6
+189,Ryan PLC Airport,Lake Rogerberg,Iran,PXE,56.5912,135.6858,8.7
+190,Dennis PLC Airport,West Kellyborough,Western Sahara,RRZ,88.6949,-83.7646,6.8
+191,"Fuentes, Horne and Ryan Airport",Wolfefort,Nauru,AXF,52.6995,142.5123,0.5
+192,Sanders PLC Airport,South Jennifer,Cameroon,PIV,-22.9699,50.7115,10.3
+193,"Schmidt, Travis and Burns Airport",New Kristyview,Vanuatu,IAL,61.9726,134.5938,6.2
+194,Henderson LLC Airport,East Joshualand,Mexico,HOR,81.9417,-116.7357,-5.0
+195,"Young, Costa and Reese Airport",Port Jose,Switzerland,SJZ,-18.8081,147.9968,4.5
+196,Wilson and Sons Airport,Lake Linda,Malawi,CYC,-52.5762,-48.8328,-6.4
+197,Santos-Sherman Airport,South Seth,Jamaica,KBO,15.1935,-108.5522,5.2
+198,Sanchez and Sons Airport,West Derekhaven,French Polynesia,GHQ,16.4992,125.5514,8.3
+199,Lee-Hansen Airport,Lake Michaelland,Mali,JBR,56.7262,-32.0744,-12.0
+200,Hughes-Marshall Airport,South Abigail,Northern Mariana Islands,HOG,-58.4463,-177.2861,10.7
